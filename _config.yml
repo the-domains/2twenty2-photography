@@ -1,7 +1,7 @@
 name: 2twenty2 Photography
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.26925
+layout_spectrum: 0.5217010038904846
+typography_spectrum: 0.12211287044920027
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#81a847'
-    - '#c3c3c3'
-    - '#425f21'
-  brandStrength: 0
-  lightness: 0.3125
-  saturation: 0.5625
-  rhythmicContrast: 1
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.29393809172324836
+  lightness: 0.017928229179233313
+  saturation: 0.4211706090718508
+  rhythmicContrast: 0.8221576162613928
 purpose: []
